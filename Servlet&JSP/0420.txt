@@ -1,6 +1,4 @@
 - Servlet : https://www.notion.so/Servlet-70803679b1e84896a9f10e1e34ce8893
-  - 
-- JSP : https://www.notion.so/Jsp-1d694a2657af805b8c2ac09cb0943819
   - 0. ServletContext vs ServletConfig 
   - 1. Servlet
   - 2. Servlet 쿠키 생성
@@ -11,3 +9,5 @@
   - 7. DBCP
   - 8. GenericServlet과 HttpServlet의 init() 차이
   - 9. mvc
+
+- JSP : https://www.notion.so/Jsp-1d694a2657af805b8c2ac09cb0943819
